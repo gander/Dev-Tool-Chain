@@ -1,0 +1,1 @@
+{"version":3,"file":"ChangelogOption.d.ts","sourceRoot":"","sources":["../../src/options/ChangelogOption.ts"],"names":[],"mappings":"AAAA,OAAO,KAAK,EAAE,OAAO,EAAE,MAAM,uBAAuB,CAAC;AAErD;;;GAGG;AACH,qBAAa,eAAgB,YAAW,OAAO;IAC7C,QAAQ,CAAC,EAAE,eAAe;IAC1B,QAAQ,CAAC,IAAI,eAAe;IAC5B,QAAQ,CAAC,WAAW,uCAAuC;IAE3D;;OAEG;IACG,OAAO,IAAI,OAAO,CAAC,IAAI,CAAC;CAI/B"}

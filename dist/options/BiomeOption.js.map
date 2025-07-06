@@ -1,0 +1,1 @@
+{"version":3,"file":"BiomeOption.js","sourceRoot":"","sources":["../../src/options/BiomeOption.ts"],"names":[],"mappings":";;;AAEA;;;GAGG;AACH,MAAa,WAAW;IACb,EAAE,GAAG,OAAO,CAAC;IACb,IAAI,GAAG,OAAO,CAAC;IACf,WAAW,GAAG,0CAA0C,CAAC;IAElE;;OAEG;IACH,KAAK,CAAC,OAAO;QACX,OAAO,CAAC,GAAG,CAAC,kBAAkB,CAAC,CAAC;QAChC,OAAO,CAAC,GAAG,CAAC,oEAAoE,CAAC,CAAC;IACpF,CAAC;CACF;AAZD,kCAYC"}

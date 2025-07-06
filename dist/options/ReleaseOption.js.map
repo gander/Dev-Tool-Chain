@@ -1,0 +1,1 @@
+{"version":3,"file":"ReleaseOption.js","sourceRoot":"","sources":["../../src/options/ReleaseOption.ts"],"names":[],"mappings":";;;AAEA;;;GAGG;AACH,MAAa,aAAa;IACf,EAAE,GAAG,SAAS,CAAC;IACf,IAAI,GAAG,SAAS,CAAC;IACjB,WAAW,GAAG,oCAAoC,CAAC;IAE5D;;OAEG;IACH,KAAK,CAAC,OAAO;QACX,OAAO,CAAC,GAAG,CAAC,qBAAqB,CAAC,CAAC;QACnC,OAAO,CAAC,GAAG,CAAC,2DAA2D,CAAC,CAAC;IAC3E,CAAC;CACF;AAZD,sCAYC"}

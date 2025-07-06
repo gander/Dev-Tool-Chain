@@ -1,0 +1,1 @@
+{"version":3,"file":"ReleaseOption.d.ts","sourceRoot":"","sources":["../../src/options/ReleaseOption.ts"],"names":[],"mappings":"AAAA,OAAO,KAAK,EAAE,OAAO,EAAE,MAAM,uBAAuB,CAAC;AAErD;;;GAGG;AACH,qBAAa,aAAc,YAAW,OAAO;IAC3C,QAAQ,CAAC,EAAE,aAAa;IACxB,QAAQ,CAAC,IAAI,aAAa;IAC1B,QAAQ,CAAC,WAAW,wCAAwC;IAE5D;;OAEG;IACG,OAAO,IAAI,OAAO,CAAC,IAAI,CAAC;CAI/B"}
