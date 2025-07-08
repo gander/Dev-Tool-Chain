@@ -21,4 +21,4 @@ author = "agent"
 
 [[workflows.workflow.tasks]]
 task = "shell.exec"
-args = "npm install inquirer @types/inquirer typescript ts-node && npx tsc && node dist/index.js"
+args = "npx tsc && node dist/index.js"

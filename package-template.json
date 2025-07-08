@@ -1,0 +1,55 @@
+{
+  "name": "cli-options-manager",
+  "version": "1.0.0",
+  "description": "A TypeScript Node.js CLI application with interactive checkbox selection for managing development tools",
+  "main": "dist/index.js",
+  "bin": {
+    "cli-options-manager": "dist/index.js"
+  },
+  "scripts": {
+    "build": "npx tsc",
+    "start": "npm run build && node dist/index.js",
+    "dev": "npx tsc --watch",
+    "clean": "rm -rf dist",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "cli",
+    "checkbox",
+    "interactive",
+    "development-tools",
+    "typescript",
+    "plugin-architecture",
+    "biome",
+    "lefthook",
+    "release",
+    "changelog"
+  ],
+  "author": "Adam Gąsowski",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/adamgasowski/cli-options-manager"
+  },
+  "bugs": {
+    "url": "https://github.com/adamgasowski/cli-options-manager/issues"
+  },
+  "homepage": "https://github.com/adamgasowski/cli-options-manager#readme",
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "dependencies": {
+    "@types/inquirer": "^9.0.8",
+    "@types/node": "^24.0.10",
+    "inquirer": "^12.7.0",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.8.3"
+  },
+  "files": [
+    "dist/",
+    "src/",
+    "README.md",
+    "LICENSE",
+    "tsconfig.json"
+  ]
+}

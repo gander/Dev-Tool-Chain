@@ -77,6 +77,10 @@ Preferred communication style: Simple, everyday language.
 
 ## Recent Changes
 
+- July 08, 2025: Added comprehensive documentation (README.md, CONTRIBUTING.md)
+- July 08, 2025: Added MIT License for Adam Gąsowski
+- July 08, 2025: Created package template with proper metadata
+- July 08, 2025: Added .gitignore for Node.js project
 - July 06, 2025: Initial setup completed
 - July 06, 2025: Fixed TypeScript compilation issues by switching from ES modules to CommonJS
 - July 06, 2025: Application successfully tested - all 4 options (Release, Changelog, Biome, Lefthook) working correctly
